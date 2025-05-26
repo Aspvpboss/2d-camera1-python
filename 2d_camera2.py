@@ -195,6 +195,7 @@ class Game:
         fps_surface = self.FONT.render(f"{fps}", True, (255, 255, 255))
         self.SCREEN.blit(fps_surface, (10, 10))
 
+    #dooky dook 
 
     def main(self):
         
