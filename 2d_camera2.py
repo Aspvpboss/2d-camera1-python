@@ -4,6 +4,7 @@ import time
 
 class Game:
     def __init__(self):
+        #this is test3-branch
         pygame.init()
         # general 
         self.FPS_DICTIONARY = {"60" : 60, "144" : 144, "240" : 240, "Unlimited" : 1000}
